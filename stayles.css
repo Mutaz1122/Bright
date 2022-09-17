@@ -88,3 +88,29 @@ color: #707779;
 #brife{
     margin-bottom: 3rem;
 }
+@media screen and (max-width: 500px) {
+    .imgs{
+       
+        margin-bottom: 3rem;
+    }
+    p{
+        
+        font-size: 1.3rem;
+       
+        line-height: 1.5rem;
+        }
+        .img-continer{
+            margin: 5rem 1rem 0rem 1rem;
+           
+           }
+           .partion {
+            text-align: center;
+           
+            margin: 3rem auto;
+        }
+        .img2{
+            width: 66%;
+            margin: 0 auto 2rem auto;
+        
+        }
+  }
