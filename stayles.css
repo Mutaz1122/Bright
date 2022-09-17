@@ -1,17 +1,25 @@
+@font-face {
+    font-family: 'bright-font';
+    src: url(font/Sansation-Regular.ttf);
+}
 p{
-font-family: 'Sansation','Times New Roman', Times, serif;
+font-family: 'bright-font','Times New Roman', Times, serif;
 font-size: 1.9rem;
 color: #707779;
 line-height: 1.rem;
 text-align: left;
 }
-h2{
-    font-family: 'Sansation','Times New Roman', Times, serif;
+h2 {
+    font-family: 'bright-font','Times New Roman', Times, serif;
     color: #707779;  
 }
 h1{
-    font-family: 'Sansation','Times New Roman', Times, serif;
+    font-family: 'bright-font','Times New Roman', Times, serif;
     color: #707779;
+}
+#nav-it{
+    font-family: 'bright-font','Times New Roman', Times, serif;
+    color: #707779;  
 }
 
 /* nav bar*/
