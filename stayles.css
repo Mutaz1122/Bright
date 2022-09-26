@@ -96,6 +96,12 @@ color: #707779;
 #brife{
     margin-bottom: 3rem;
 }
+#about-text{
+    text-align: justify;
+    text-justify: inter-word;
+    padding-right: 3rem;
+
+}
 @media screen and (max-width: 500px) {
     .imgs{
        
@@ -119,6 +125,11 @@ color: #707779;
         .img2{
             width: 66%;
             margin: 0 auto 2rem auto;
+        
+        }
+        #about-text{
+           
+            padding-right: 0;
         
         }
   }
